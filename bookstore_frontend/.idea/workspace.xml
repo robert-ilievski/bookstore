@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a701b209-9228-40fa-81c7-53bddbd07f21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bookstore_frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/EShopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/config/CustomUsernamePasswordAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/jobs/ScheduledTasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/listeners/ProductEventHandlers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/Discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/Manufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/dto/ProductDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/enumerations/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/enumerations/ShoppingCartStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/events/ProductCreatedEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/CategoryNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/InvalidArgumentsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/InvalidUserCredentialsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/InvalidUsernameOrPasswordException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/ManufacturerNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/PasswordsDoNotMatchException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/ProductAlreadyInShoppingCartException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/ProductNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/ShoppingCartNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/exceptions/UsernameAlreadyExistsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/projections/UserProjection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/views/ProductsPerCategoryView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/model/views/ProductsPerManufacturerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/repository/ManufacturerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/repository/ShoppingCartRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/repository/views/ProductsPerCategoryViewRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/repository/views/ProductsPerManufacturerViewRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/ManufacturerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/ShoppingCartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/impl/AuthServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/impl/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/impl/ManufacturerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/impl/ShoppingCartServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/controller/LogoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/controller/ManufacturerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/controller/RegisterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/controller/ShoppingCartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/rest/CategoryRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/rest/ManufacturerRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/java/mk/ukim/finki/emt/eshop/web/rest/ProductRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/application-h2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/application-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/application-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/static/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/access_denied.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/add-product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/categories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/fragments/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/fragments/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/manufacturers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/master-template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/main/resources/templates/shopping-cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/EShopApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/UserRegistrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/repository/ProductsPerCategoryViewRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/repository/ProductsPerManufacturerViewRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/repository/UserRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/selenium/AbstractPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/selenium/AddOrEditProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/selenium/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/selenium/ProductsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/selenium/SeleniumScenarioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/src/test/java/mk/ukim/finki/emt/eshop/selenium/ShoppingCartPage.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qOJqvBB0XHHsvxHkZ0mJv6u2qE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\robert proekti\6 semestar\Elektronska i Mobilna Trgovija\bookstore_emt\bookstore_frontend\src\components\App" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a701b209-9228-40fa-81c7-53bddbd07f21" name="Default Changelist" comment="" />
+      <created>1616944898190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616944898190</updated>
+      <workItem from="1616944899533" duration="9728000" />
+      <workItem from="1616962926171" duration="9662000" />
+      <workItem from="1616974962204" duration="26000" />
+      <workItem from="1618401844539" duration="1066000" />
+      <workItem from="1618586173015" duration="709000" />
+      <workItem from="1624047926271" duration="835000" />
+      <workItem from="1624220847755" duration="542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
